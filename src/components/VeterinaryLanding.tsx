@@ -149,7 +149,7 @@ const VeterinaryLanding = () => {
               <Button 
                 variant="outline" 
                 onClick={() => scrollToSection('services')}
-                className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary transition-smooth"
+                className="border-primary-foreground text-primary hover:bg-primary-foreground hover:text-primary transition-smooth"
               >
                 Nossos Serviços
               </Button>
@@ -204,7 +204,7 @@ const VeterinaryLanding = () => {
               <Button 
                 variant="outline" 
                 onClick={() => scrollToSection('services')}
-                className="w-full border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
+                className="w-full border-primary-foreground text-primary hover:bg-primary-foreground hover:text-primary"
               >
                 Nossos Serviços
               </Button>
@@ -252,7 +252,7 @@ const VeterinaryLanding = () => {
                   size="lg"
                   variant="outline"
                   onClick={() => scrollToSection('about')}
-                  className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary transition-smooth"
+                  className="border-primary-foreground text-primary hover:bg-primary-foreground hover:text-primary transition-smooth"
                 >
                   Sobre Nós
                 </Button>
