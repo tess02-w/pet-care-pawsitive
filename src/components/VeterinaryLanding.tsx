@@ -536,7 +536,7 @@ const VeterinaryLanding = () => {
                 size="lg"
                 variant="outline"
                 onClick={() => scrollToSection('services')}
-                className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary transition-smooth"
+                className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-smooth"
               >
                 Ver Todos os Serviços
               </Button>
