@@ -243,7 +243,7 @@ const VeterinaryLanding = () => {
                 <Button 
                   size="lg"
                   onClick={() => scrollToSection('services')}
-                  className="bg-accent-highlight hover:bg-accent-highlight/90 text-primary-dark font-semibold hover-lift transition-bounce"
+                  className="bg-accent-highlight hover:bg-accent-highlight/90 text-primary-foreground font-semibold hover-lift transition-bounce"
                 >
                   Nossos Serviços
                   <ArrowRight className="ml-2 h-5 w-5" />
