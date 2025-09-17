@@ -669,14 +669,6 @@ const VeterinaryLanding = () => {
                   <span className="text-primary-foreground/80">contato@petcareclinic.com.br</span>
                 </li>
               </ul>
-              <div className="mt-6">
-                <Button 
-                  className="bg-accent-highlight hover:bg-accent-highlight/90 text-primary-dark font-semibold w-full hover-lift transition-bounce"
-                >
-                  Agendar Online
-                  <Calendar className="ml-2 h-5 w-5" />
-                </Button>
-              </div>
             </div>
           </div>
 
