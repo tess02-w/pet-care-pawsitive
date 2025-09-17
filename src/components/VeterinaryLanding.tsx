@@ -537,11 +537,11 @@ const VeterinaryLanding = () => {
               veterinários em um ambiente profissional e acolhedor.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button 
-                size="lg"
-                onClick={() => scrollToSection('contact')}
-                className="bg-accent-highlight hover:bg-accent-highlight/90 text-primary-dark font-semibold hover-lift transition-bounce"
-              >
+                <Button 
+                  size="lg"
+                  onClick={() => scrollToSection('contact')}
+                  className="bg-accent-highlight hover:bg-accent-highlight/90 text-primary-foreground font-semibold hover-lift transition-bounce"
+                >
                 Agendar Consulta
                 <Calendar className="ml-2 h-5 w-5" />
               </Button>
